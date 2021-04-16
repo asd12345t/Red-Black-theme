@@ -1,0 +1,20 @@
+/**
+* @name "Red&Black"
+* @version 2
+* @author 🎅NoKiX DEV©™🎅#1123
+* @invite PZdnCVD
+*/
+@import url("https://codedotspectra.github.io/themes/themes-cores/neutron8.css");
+@import url('https://fonts.googleapis.com/css2?family=Open+Sans');
+@import url("https://monstrousdev.github.io/themes/addons/user-tags.css");
+@import url("https://codedotspectra.github.io/themes/core/badges.css");
+:root {
+--themeColor1: #801414;
+--themeColor2: #4400ff;
+--customFont: 'Open Sans', sans-serif;
+--homeImage: url('https://cdn.discordapp.com/attachments/832534704041099265/832536954398441513/1973389.png');
+--backgroundColor: #383333;
+--backgroundImage: url('https://cdn.discordapp.com/attachments/832534704041099265/832536954398441513/1973389.png');
+--backgroundBlur: 2px;
+--backgroundOpacity: 0.65;
+}
